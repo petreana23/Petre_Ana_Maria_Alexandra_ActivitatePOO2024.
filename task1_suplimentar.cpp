@@ -34,7 +34,7 @@ void afisareBloc(Bloc b) {
 }
 
 int main() {
-    int nrBlocuri = 3;
+    int nrBlocuri = 10;
     Bloc* blocuri;
     blocuri = new Bloc[nrBlocuri];
 
